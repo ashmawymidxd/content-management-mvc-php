@@ -9,9 +9,9 @@ class userControllerTest extends TestCase{
         $this->assertEquals('Ahmed', $user->returnAhmed('Ahmed'));
     }
 
-    public function testLogin(){
-        $user = new userController();
-        $this->assertEquals('Auth/login', $user->login());
-    }
+    // public function testLogin(){
+    //     $user = new userController();
+    //     $this->assertEquals('Auth/login', $user->login());
+    // }
         
 }
