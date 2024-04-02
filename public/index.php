@@ -29,3 +29,5 @@ define('CORE', APP.DS.'core'.DS);
 require "../vendor/autoload.php";
 use ahmed\core\app;
 $app = new app;
+
+

@@ -12,12 +12,12 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.0/mdb.min.css" rel="stylesheet" />
     <style>
         body {
-        background-color: #fbfbfb;
-            }
-            @media (min-width: 991.98px) {
-            main {
-                padding-left: 240px;
-            }
+          background-color: #fbfbfb;
+          }
+          @media (min-width: 991.98px) {
+          main {
+              padding-left: 240px;
+          }
         }
 
         /* Sidebar */
@@ -100,7 +100,6 @@
     </div>
   </nav>
   <!-- Sidebar -->
-
   <!-- Navbar -->
   <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <!-- Container wrapper -->
@@ -123,6 +122,7 @@
         <img
           src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
           height="25"
+          width="25"
           alt="MDB Logo"
           loading="lazy"
         />

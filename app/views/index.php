@@ -8,5 +8,6 @@
 <body>
     <h1>index page for app </h1>
     <a href="<?=URL.'/dashboard/index'?>">Dashboard</a>
+    
 </body>
 </html>

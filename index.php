@@ -7,5 +7,6 @@
 </head>
 <body>
     <a href="public/home/index">Start</a>
+    
 </body>
 </html>
