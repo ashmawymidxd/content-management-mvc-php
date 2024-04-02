@@ -1,0 +1,1 @@
+{"version":1,"defects":{"calculatedTest::testInserIntoUserTable":7,"userControllerTest::testInserIntoUserTable":7,"userControllerTest::testLogin":8},"times":{"calculatedTest::testInserIntoUserTable":0.036,"userControllerTest::testInserIntoUserTable":0.023,"userControllerTest::testLogin":0.036}}

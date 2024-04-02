@@ -7,5 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'ahmed\\' => array($baseDir . '/app'),
+    'PhpParser\\' => array($vendorDir . '/nikic/php-parser/lib/PhpParser'),
     'GUMP\\' => array($vendorDir . '/wixel/gump/src'),
+    'DeepCopy\\' => array($vendorDir . '/myclabs/deep-copy/src/DeepCopy'),
 );

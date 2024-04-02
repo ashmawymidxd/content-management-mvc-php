@@ -20,5 +20,8 @@
             "ahmed\\": "app"
         },
         "save": "CrazyRush"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
     }
 }

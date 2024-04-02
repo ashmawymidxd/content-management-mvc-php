@@ -13,6 +13,10 @@ class userController extends controller{
         return $this->view('Website/home');
     }
 
+    public function returnAhmed(){
+        return 'Ahmed';
+    }
+
     public function login(){
         
         if(isset($_SESSION['user'])){
